@@ -1,0 +1,9 @@
+[INFOS]
+gaf=0
+title=WW_Auto_Error_Management
+image=description.gif
+description=description.rtf
+source=0
+typesite=0
+[OBJECT]
+WW_Auto_Error_Management.WWP=4096
